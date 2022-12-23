@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/unit-converter/static/css/main.cf7851a7.css",
+    "main.js": "/unit-converter/static/js/main.5a2b57cf.js",
+    "static/js/787.d3befce1.chunk.js": "/unit-converter/static/js/787.d3befce1.chunk.js",
+    "static/media/newtons-cradle-g46a51e532_1280.png": "/unit-converter/static/media/newtons-cradle-g46a51e532_1280.037ef68ae2e780c3385d.png",
+    "index.html": "/unit-converter/index.html",
+    "main.cf7851a7.css.map": "/unit-converter/static/css/main.cf7851a7.css.map",
+    "main.5a2b57cf.js.map": "/unit-converter/static/js/main.5a2b57cf.js.map",
+    "787.d3befce1.chunk.js.map": "/unit-converter/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf7851a7.css",
+    "static/js/main.5a2b57cf.js"
+  ]
+}
